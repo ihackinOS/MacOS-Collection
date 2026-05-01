@@ -19,15 +19,15 @@ Below is the section where you can insert download links for each macOS version.
 ## 📀 RDR Downloads  
 (Click to download the ready-to-restore `.rdr` image)
 
-- **macOS High Sierra RDR** — *Add link here*  
-- **macOS Mojave RDR** — *[Mojave](https://hackinos.com/files/file/14-hackinos-mojave-restore/)*  
-- **macOS Catalina RDR** — *Add link here*  
-- **macOS Big Sur RDR** — *[Big Sur](https://hackinos.com/files/file/9-hackinos-big-sur-restore/)*  
-- **macOS Monterey RDR** — *[Monterey](https://hackinos.com/files/file/10-hackinos-monterey-restore/)*  
-- **macOS Ventura RDR** — *[Ventura](https://hackinos.com/files/file/11-hackinos-ventura-restore/)*  
-- **macOS Sonoma RDR** — *Add link here*  
-- **macOS Sequoia RDR** — *[Sequoia](https://hackinos.com/files/file/12-hackinos-sequoia-restore/)*  
-- **macOS Tahoe RDR** — *[Tahoe](https://hackinos.com/files/file/13-hackinos-tahoe-restore/)*  
+- **macOS High Sierra RDR** — *[High Sierra](https://cuty.io/HSierra10136)*  
+- **macOS Mojave RDR** — *[Mojave](https://cuty.io/Mojave10144)*  
+- **macOS Catalina RDR** — *[Catalina](https://cuty.io/Catalina1015)*  
+- **macOS Big Sur RDR** — *[Big Sur](https://cuty.io/BigSur11711)*  
+- **macOS Monterey RDR** — *[Monterey](https://cuty.io/Monterey1276)*  
+- **macOS Ventura RDR** — *[Ventura](https://cuty.io/Ventura1378)*  
+- **macOS Sonoma RDR** — *[Sonoma](https://cuty.io/Sonoma1485)*  
+- **macOS Sequoia RDR** — *[Sequoia](https://cuty.io/Sequoia1575)*  
+- **macOS Tahoe RDR** — *[Tahoe](https://cuty.io/Tahoe264)*  
 
 ## 💿 IMG/DMG USB Installer Downloads  
 (Click to download the `.img` or `.dmg` installer image)
