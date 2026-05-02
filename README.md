@@ -32,9 +32,9 @@ Below is the section where you can insert download links for each macOS version.
 ## 💿 IMG/DMG USB Installer Downloads  
 (Click to download the `.img` or `.dmg` installer image)
 
-- **macOS High Sierra IMG/DMG** — *[High Sierra](https://hackinos.com/files/file/3-hackinos-high-sierra/)*  
-- **macOS Mojave IMG/DMG** — *[Mojave](https://hackinos.com/files/file/4-hackinos-mojave/)*  
-- **macOS Catalina IMG/DMG** — *[Catalina](https://hackinos.com/files/file/2-hackinos-catalina/)*  
+- **macOS High Sierra IMG/DMG** — *[High Sierra](https://cuty.io/DSierra10136)*  
+- **macOS Mojave IMG/DMG** — *[Mojave](https://cuty.io/DMojave10146)*  
+- **macOS Catalina IMG/DMG** — *[Catalina](https://cuty.io/DCata10157)*  
 - **macOS Big Sur IMG/DMG** — *[Big Sur](https://hackinos.com/files/file/1-hackinos-big-sur/)*  
 - **macOS Monterey IMG/DMG** — *[Monterey](https://hackinos.com/files/file/5-hackinos-monterey/)*  
 - **macOS Ventura IMG/DMG** — *[Ventura](https://hackinos.com/files/file/6-hackinos-ventura/)*  
