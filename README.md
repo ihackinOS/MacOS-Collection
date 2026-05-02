@@ -35,11 +35,11 @@ Below is the section where you can insert download links for each macOS version.
 - **macOS High Sierra IMG/DMG** — *[High Sierra](https://cuty.io/DSierra10136)*  
 - **macOS Mojave IMG/DMG** — *[Mojave](https://cuty.io/DMojave10146)*  
 - **macOS Catalina IMG/DMG** — *[Catalina](https://cuty.io/DCata10157)*  
-- **macOS Big Sur IMG/DMG** — *[Big Sur](https://hackinos.com/files/file/1-hackinos-big-sur/)*  
-- **macOS Monterey IMG/DMG** — *[Monterey](https://hackinos.com/files/file/5-hackinos-monterey/)*  
-- **macOS Ventura IMG/DMG** — *[Ventura](https://hackinos.com/files/file/6-hackinos-ventura/)*  
-- **macOS Sonoma IMG/DMG** — *[Sonoma](https://hackinos.com/files/file/7-hackinos-sonoma/)*  
-- **macOS Sequoia IMG/DMG** — *[Sequoia](https://hackinos.com/files/file/8-hackinos-sequoia/)*  
+- **macOS Big Sur IMG/DMG** — *[Big Sur](https://cuty.io/DBigSur11711)*  
+- **macOS Monterey IMG/DMG** — *[Monterey](https://cuty.io/DMon1276)*  
+- **macOS Ventura IMG/DMG** — *[Ventura](https://cuty.io/DVentura1378)*  
+- **macOS Sonoma IMG/DMG** — *[Sonoma](https://cuty.io/DSonoma1485)*  
+- **macOS Sequoia IMG/DMG** — *[Sequoia](https://cuty.io/DSequoia1575)*  
 - **macOS Tahoe IMG/DMG** — *Add link here*  
 
 ## 💡 What Is the RDR File?
