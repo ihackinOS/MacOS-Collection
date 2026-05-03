@@ -106,6 +106,7 @@ Available for all versions from High Sierra → Tahoe.
 
 ### 3️⃣ 🚀 Launch **balenaEtcher**  
 Download the latest version if you don’t have it.
+- **Download** - *[Etcher](https://cuty.io/Etcher214)*
 
 ### 4️⃣ Flash the Installer  
 Inside Etcher:
