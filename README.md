@@ -40,7 +40,7 @@ Below is the section where you can insert download links for each macOS version.
 - **macOS Ventura IMG/DMG** — *[Ventura](https://cuty.io/DVentura1378)*  
 - **macOS Sonoma IMG/DMG** — *[Sonoma](https://cuty.io/DSonoma1485)*  
 - **macOS Sequoia IMG/DMG** — *[Sequoia](https://cuty.io/DSequoia1575)*  
-- **macOS Tahoe IMG/DMG** — *Add link here*  
+- **macOS Tahoe IMG/DMG** — *[Tahoe - Part 1](https://cuty.io/DTahoePart1)*  - *[Tahoe - Part 2](https://cuty.io/DTahoePart2)* - *[Tahoe - Part 3](https://cuty.io/DTahoePart3)* - *[Tahoe - Part 4](https://cuty.io/DTahoePart4)*
 
 ## 💡 What Is the RDR File?
 The `.rdr` file is a ready-to-restore macOS disk image.  
