@@ -9,6 +9,7 @@ hackinOS provides two types of installation files for all macOS versions:
 Both methods work for every macOS version from **High Sierra, Mojave, Catalina, Big Sur, Monterey, Ventura, Sonoma, Sequoia, to Tahoe**.
 
 > **Download Password:** www.hackinOS.com
+> **Note**: Using 7 for extract, link download: [7zip](https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.exe)
 
 # 📀 PART 1 — Installing macOS Using the RDR File  
 *(Restore directly to your disk — no USB required)*
